@@ -1,0 +1,12 @@
+# Machine Learning Libraries
+pandas==2.2.0
+numpy==1.26.3
+scikit-learn==1.4.0
+xgboost==1.7.6
+
+# Visualization
+matplotlib==3.8.2
+seaborn>=0.12.0
+
+# Explainable AI (optional - requires C++ compiler)
+shap>=0.42.0
