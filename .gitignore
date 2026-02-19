@@ -20,12 +20,6 @@ model/outputs/
 *.pt
 *.pth
 
-# Data Files
-*.csv
-*.xlsx
-*.xls
-*.json
-*.parquet
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
